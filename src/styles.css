@@ -99,7 +99,7 @@ article .article-content {
   flex-direction: column;
   justify-content: center;
   align-content: stretch;
-  padding: 60px;
+  padding: 60px 8%;
 }
 
 article .article-content p {
